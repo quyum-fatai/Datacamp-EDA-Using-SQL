@@ -1,4 +1,4 @@
-## The World Bank's international debt data
+## The World Bank's international debt data exploration
 
 ![download](https://user-images.githubusercontent.com/127361595/224518838-258167b1-d5fb-4ba0-823d-eac2ca388d98.jpg)
 
