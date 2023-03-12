@@ -1,4 +1,7 @@
 ## The World Bank's international debt data
+
+![download](https://user-images.githubusercontent.com/127361595/224518838-258167b1-d5fb-4ba0-823d-eac2ca388d98.jpg)
+
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The [World Bank](https://www.worldbank.org/en/home) is the organization that provides debt to countries.
 
 In this project, we are going to analyze international debt data collected by The [World Bank](https://www.worldbank.org/en/home). The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like:
@@ -7,4 +10,4 @@ In this project, we are going to analyze international debt data collected by Th
 - Which country owns the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
 
-![download](https://user-images.githubusercontent.com/127361595/224518838-258167b1-d5fb-4ba0-823d-eac2ca388d98.jpg)
+
