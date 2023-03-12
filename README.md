@@ -10,4 +10,5 @@ In this project, we are going to analyze international debt data collected by Th
 - Which country owns the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
 
-
+## Insight
+It was discovered that over 3 trillion dollars was owed by 124 countries between 1970 – 2015. It was also discovered that China and Brazil had the highest debt between the period and most debts owed are long term debts
